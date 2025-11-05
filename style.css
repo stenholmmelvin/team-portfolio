@@ -168,6 +168,29 @@ footer p {
     color: #7f8c8d;
     margin: 0.5rem 0;
 }
+
+.stats {
+    display: flex;
+    justify-content: space-around;
+    padding: 3rem 2rem;
+    background: #ecf0f1;
+}
+
+.stat {
+    text-align: center;
+}
+
+.stat h3 {
+    font-size: 2rem;
+    color: #2c3e50;
+    margin-bottom: 0.5rem;
+}
+
+.stat p {
+    color: #7f8c8d;
+  font-size: 1rem;
+}
+
 .hero {
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: white;
