@@ -34,3 +34,4 @@ Vi använder GitHub Projects för att spåra arbete:
 - Issues för alla features
 - Kanban board: Todo → In Progress → Done
 - Koppla PRs till issues
+- Person B
