@@ -56,3 +56,17 @@ footer {
 footer p {
     margin: 0.5rem 0;
 }
+
+.social-links {
+    margin-bottom: 1rem;
+}
+
+.social-links a {
+    color: white;
+    margin: 0 1rem;
+    text-decoration: none;
+}
+
+.social-links a:hover {
+    color: #3498db;
+}
