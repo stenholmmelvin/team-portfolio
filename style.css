@@ -245,3 +245,28 @@ footer p {
     border-radius: 4px;
     cursor: pointer;
 }
+
+#skills {
+    max-width: 1000px;
+    margin: 3rem auto;
+    text-align: center;
+}
+
+#skills h2 {
+    color: #2c3e50;
+    margin-bottom: 2rem;
+}
+
+.skills-container {
+    display: flex;
+    gap: 2rem;
+}
+
+.skill-card {
+    background: #ecf0f1;
+    padding: 2rem;
+}
+
+.skill-card h3 {
+    color: #2c3e50;
+}
