@@ -40,3 +40,19 @@ nav a.active {
     color: #3498db;
     border-bottom: 2px solid #3498db;
 }
+
+main {
+    min-height: 60vh;
+    padding: 2rem;
+}
+
+footer {
+    background: #2c3e50;
+    color: white;
+    padding: 2rem;
+    text-align: center;
+}
+
+footer p {
+    margin: 0.5rem 0;
+}
